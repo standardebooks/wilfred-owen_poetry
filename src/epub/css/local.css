@@ -5,9 +5,22 @@ article{
 	page-break-after: always;
 }
 
+article > header{
+	text-align: center;
+	margin-bottom: 3em;
+}
+
+article > header h2{
+	margin-bottom: 1em;
+}
+
 strong{
 	font-weight: normal;
 	font-variant: small-caps;
+}
+
+time{
+	font-style: italic;
 }
 
 abbr.name{
@@ -77,4 +90,17 @@ p span.i2{
 p span.i3{
 	text-indent: -1em;
 	padding-left: 4em;
+}
+
+p[epub|type~="z3998:dedication"]{
+	text-align: center;
+	font-variant: small-caps;
+}
+
+[epub|type~="z3998:poem"] footer{
+	margin-top: 1em;
+}
+
+[epub|type~="z3998:poem"] footer p{
+	text-align: right;
 }
