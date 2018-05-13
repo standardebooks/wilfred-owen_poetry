@@ -37,9 +37,12 @@
 		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/1034</meta>
 		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/1034</meta>
 		<meta property="se:subject">Poetry</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A collection of Wilfred Owen’s published poems.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description"> LONGDESCRIPTION </meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;Wilfred Owen was a soldier and poet during the second half of the first World War. His poetry, contrary to the propaganda of the time, dealt with the horrors of front-line trench warfare and was written at least partially out of a sense of duty to tell of the realities of war. Most of his poetry was published posthumously in 1920 after his death in combat in November 1918, a mere week before the armistice was signed.&lt;/p&gt;
+			&lt;p&gt;His poetry, along with that of his close friend Siegfried Sassoon, is now regarded as an authentic voice of the experiences of the soldiers of the War. Held in especially high regard are &lt;i xml:lang="la"&gt;Dulce Et Decorum Est&lt;/i&gt; with its vivid description of a gas attack, and &lt;i&gt;Anthem for Doomed Youth&lt;/i&gt;. The poems are here presented in chronological order according to the date of final revision.&lt;/p&gt;
+		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1034</dc:source>
@@ -49,8 +52,8 @@
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Wilfred_Owen#Poetry</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/wilfred-owen_poetry</meta>
 		<dc:creator id="author">Wilfred Owen</dc:creator>
-		<meta property="file-as" refines="#author">AUTHORSORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">AUTHORFULLNAME</meta>
+		<meta property="file-as" refines="#author">Owen, Wilfred</meta>
+		<meta property="se:name.person.full-name" refines="#author">Wilfred Edward Salter Owen</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Wilfred_Owen</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79006808</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
