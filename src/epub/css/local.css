@@ -99,5 +99,8 @@ p[epub|type~="z3998:dedication"]{
 
 [epub|type~="z3998:poem"] footer{
 	margin-top: 1em;
-	text-align: right;
+}
+
+[epub|type~="z3998:poem"] footer p{
+	text-align: right; /* override poetry styling */
 }
