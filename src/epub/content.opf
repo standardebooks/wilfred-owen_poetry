@@ -26,23 +26,24 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Poetry</dc:title>
 		<meta property="file-as" refines="#title">Poetry</meta>
 		<dc:subject id="subject-1">World War, 1914-1918 -- Poetry</dc:subject>
 		<dc:subject id="subject-2">English poetry -- 20th century</dc:subject>
 		<dc:subject id="subject-3">War poetry</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/1034</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/1034</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/1034</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2008113814</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85043938</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh85145198</meta>
 		<meta property="se:subject">Poetry</meta>
 		<dc:description id="description">A collection of Wilfred Owen’s published poems.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Wilfred Owen was a soldier and poet during the second half of the first World War. His poetry, contrary to the propaganda of the time, dealt with the horrors of front-line trench warfare and was written at least partially out of a sense of duty to tell of the realities of war. Most of his poetry was published posthumously in 1920 after his death in combat in November 1918, a mere week before the armistice was signed.&lt;/p&gt;
 			&lt;p&gt;His poetry, along with that of his close friend Siegfried Sassoon, is now regarded as an authentic voice of the experiences of the soldiers of the War. Held in especially high regard are &lt;i xml:lang="la"&gt;Dulce Et Decorum Est&lt;/i&gt; with its vivid description of a gas attack, and &lt;i&gt;Anthem for Doomed Youth&lt;/i&gt;. The poems are here presented in chronological order according to the date of final revision.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1034</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100547417</dc:source>
