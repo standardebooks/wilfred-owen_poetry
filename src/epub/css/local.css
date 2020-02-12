@@ -62,7 +62,7 @@ p span.i3{
 	padding-left: 4em;
 }
 
-p[epub|type~="z3998:dedication"]{
+p[epub|type~="dedication"]{
 	text-align: center;
 	font-variant: small-caps;
 }
