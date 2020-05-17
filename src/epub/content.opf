@@ -41,7 +41,7 @@
 		<meta property="se:subject">Poetry</meta>
 		<dc:description id="description">A collection of Wilfred Owen’s published poems.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Wilfred Owen was a soldier and poet during the second half of the first World War. His poetry, contrary to the propaganda of the time, dealt with the horrors of front-line trench warfare and was written at least partially out of a sense of duty to tell of the realities of war. Most of his poetry was published posthumously in 1920 after his death in combat in November 1918, a mere week before the armistice was signed.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/wilfred-owen"&gt;Wilfred Owen&lt;/a&gt; was a soldier and poet during the second half of the first World War. His poetry, contrary to the propaganda of the time, dealt with the horrors of front-line trench warfare and was written at least partially out of a sense of duty to tell of the realities of war. Most of his poetry was published posthumously in 1920 after his death in combat in November 1918, a mere week before the armistice was signed.&lt;/p&gt;
 			&lt;p&gt;His poetry, along with that of his close friend Siegfried Sassoon, is now regarded as an authentic voice of the experiences of the soldiers of the War. Held in especially high regard are &lt;i xml:lang="la"&gt;Dulce Et Decorum Est&lt;/i&gt; with its vivid description of a gas attack, and &lt;i&gt;Anthem for Doomed Youth&lt;/i&gt;. The poems are here presented in chronological order according to the date of final revision.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
