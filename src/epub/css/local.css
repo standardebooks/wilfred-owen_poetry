@@ -2,7 +2,7 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 article{
-	page-break-after: always;
+	break-after: page;
 }
 
 article > header h2{
@@ -79,6 +79,7 @@ p[epub|type~="dedication"]{
 [epub|type~="epigraph"]{
 	font-style: italic;
 	hyphens: none;
+	-epub-hyphens: none;
 }
 
 [epub|type~="epigraph"] cite{
