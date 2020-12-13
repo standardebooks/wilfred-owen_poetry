@@ -15,6 +15,10 @@ time{
 
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
+}
+
+footer{
+	margin-top: 1em;
 	text-align: right;
 }
 
@@ -60,10 +64,6 @@ p span.i3{
 p[epub|type~="dedication"]{
 	text-align: center;
 	font-variant: small-caps;
-}
-
-[epub|type~="z3998:poem"] footer{
-	margin-top: 1em;
 }
 
 [epub|type~="z3998:poem"] footer p{
