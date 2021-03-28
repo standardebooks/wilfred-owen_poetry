@@ -61,17 +61,17 @@
 		<dc:contributor id="introduction">Siegfried Sassoon</dc:contributor>
 		<meta property="file-as" refines="#introduction">Sassoon, Siegfried</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#introduction">https://en.wikipedia.org/wiki/Siegfried_Sassoon</meta>
-		<meta property="se:url.authority.nacoaf" refines="#introduction">https://id.loc.gov/authorities/names/n80056884</meta>
+		<meta property="se:url.authority.nacoaf" refines="#introduction">http://id.loc.gov/authorities/names/n80056884</meta>
 		<meta property="role" refines="#introduction" scheme="marc:relators">win</meta>
 		<dc:contributor id="annotator">Edith Sitwell</dc:contributor>
 		<meta property="file-as" refines="#annotator">Sitwell, Edith</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#annotator">https://en.wikipedia.org/wiki/Edith_Sitwell</meta>
-		<meta property="se:url.authority.nacoaf" refines="#annotator">https://id.loc.gov/authorities/names/n79018072</meta>
+		<meta property="se:url.authority.nacoaf" refines="#annotator">http://id.loc.gov/authorities/names/n79018072</meta>
 		<meta property="role" refines="#annotator" scheme="marc:relators">ann</meta>
 		<dc:contributor id="artist">Paul Nash</dc:contributor>
 		<meta property="file-as" refines="#artist">Nash, Paul</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Paul_Nash_(artist)</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n50047335</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50047335</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Alan R. Light</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">R. Light, Alan</meta>
