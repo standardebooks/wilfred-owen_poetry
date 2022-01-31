@@ -62,8 +62,8 @@ p span.i3{
 }
 
 p[epub|type~="dedication"]{
-	text-align: center;
 	font-variant: small-caps;
+	text-align: center;
 }
 
 [epub|type~="z3998:poem"] footer p{
@@ -78,9 +78,9 @@ p[epub|type~="dedication"]{
 }
 
 [epub|type~="epigraph"] cite{
-	margin-top: 1em;
 	font-style: normal;
 	font-variant: small-caps;
+	margin-top: 1em;
 }
 /* End all epigraphs */
 
