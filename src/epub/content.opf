@@ -38,6 +38,7 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh85145198</meta>
 		<meta property="se:subject">Poetry</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of Wilfred Owen’s published poems.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/wilfred-owen"&gt;Wilfred Owen&lt;/a&gt; was a soldier and poet during the second half of the first World War. His poetry, contrary to the propaganda of the time, dealt with the horrors of front-line trench warfare and was written at least partially out of a sense of duty to tell of the realities of war. Most of his poetry was published posthumously in 1920 after his death in combat in November 1918, a mere week before the armistice was signed.&lt;/p&gt;
