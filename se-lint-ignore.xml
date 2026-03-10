@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="poetry.xhtml">
 		<ignore code="s-023">
+			<line>255</line>
 			<reason>Title "A Terre" is correctly capitalized in the title, since it itself is another title.</reason>
 		</ignore>
 	</file>
