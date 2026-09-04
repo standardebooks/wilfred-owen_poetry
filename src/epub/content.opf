@@ -30,8 +30,8 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Poetry</dc:title>
 		<meta property="file-as" refines="#title">Poetry</meta>
-		<dc:subject id="subject-1">World War, 1914-1918 -- Poetry</dc:subject>
-		<dc:subject id="subject-2">English poetry -- 20th century</dc:subject>
+		<dc:subject id="subject-1">World War, 1914-1918--Poetry</dc:subject>
+		<dc:subject id="subject-2">English poetry--20th century</dc:subject>
 		<dc:subject id="subject-3">War poetry</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008113814</meta>
