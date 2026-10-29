@@ -65,6 +65,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="introduction">Siegfried Sassoon</dc:contributor>
 		<meta property="file-as" refines="#introduction">Sassoon, Siegfried</meta>
+		<meta property="schema:alternateName" refines="#introduction">Siegfried Loraine Sassoon</meta>
 		<link href="https://en.wikipedia.org/wiki/Siegfried_Sassoon" refines="#introduction" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n80056884.html" refines="#introduction" rel="schema:sameAs"/>
 		<meta property="role" refines="#introduction" scheme="marc:relators">win</meta>
@@ -79,7 +80,7 @@
 		<link href="https://id.loc.gov/authorities/names/n50047335.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Alan R. Light</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">R. Light, Alan</meta>
+		<meta property="file-as" refines="#transcriber-1">Light, Alan R.</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Gary M. Johnson</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">M. Johnson, Gary</meta>
@@ -87,6 +88,7 @@
 		<dc:contributor id="transcriber-3">David Widger</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Widger, David</meta>
 		<link href="https://id.loc.gov/authorities/names/no2011017869.html" refines="#transcriber-3" rel="schema:sameAs"/>
+		<link href="https://www.gutenberg.net.au/widger/home.html" refines="#transcriber-3" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Robin Whittleton</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Whittleton, Robin</meta>
